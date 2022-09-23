@@ -1,0 +1,13 @@
+com\sebas\CRUDspa\service\CiudadService.class
+com\sebas\CRUDspa\repository\PersonaRepository.class
+com\sebas\CRUDspa\CruDspaApplication.class
+com\sebas\CRUDspa\repository\CiudadRepository.class
+com\sebas\CRUDspa\rest\PersonaRest.class
+com\sebas\CRUDspa\rest\CiuadRest.class
+com\sebas\CRUDspa\model\Persona.class
+com\sebas\CRUDspa\repository\TDRepository.class
+com\sebas\CRUDspa\model\Ciudad.class
+com\sebas\CRUDspa\model\tipo_documento.class
+com\sebas\CRUDspa\service\TDService.class
+com\sebas\CRUDspa\service\PersonaService.class
+com\sebas\CRUDspa\rest\TDRest.class
